@@ -11,6 +11,9 @@ More info at https://github.com/arcbtc/Quickening
 
 - .stl @ https://www.cryptocloaks.com/file-factory or https://bit.ly/36UpRzG
 
+## Extra Anycubic Gcode 0,2 mm & 0,3 mm for Mega(s)
+- https://github.com/cryptonobo/The-Quickening-Box-V2/tree/master/AnycubiMegaGCODE_V2
+
 ## Hardware List Used For Pototype :
 
 ON-OFF 22mm 2Pin
