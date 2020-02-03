@@ -1,7 +1,7 @@
 # The quickening Box v2
   ## Bitcoin // Lightning Network // POS Terminal
  
-![bitcoin](https://github.com/cryptonobo/The-Quickening-Box-V2/QUICKENINGBOXV2.jpg
+![bitcoin](https://github.com/cryptonobo/The-Quickening-Box-V2/QUICKENINGBOXV2.jpg)
 
 ## The quickening (software)
 
