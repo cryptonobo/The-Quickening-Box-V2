@@ -3,7 +3,7 @@
  
 ![bitcoin](https://github.com/cryptonobo/The-Quickening-Box-V2/blob/master/QUICKENINGBOXV2.jpg)
 
-## The quickening (software)
+## The quickening (software + tutorial)
 
 More info at https://github.com/arcbtc/Quickening
 
