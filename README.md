@@ -7,7 +7,7 @@
 
 More info at https://github.com/arcbtc/Quickening
 
-## Download 
+## Download Print files
 
 - .stl @ https://www.cryptocloaks.com/file-factory or https://bit.ly/36UpRzG
 
