@@ -1,4 +1,4 @@
-# The quickening Box v2
+# The Quickening Box v2
   ## Bitcoin // Lightning Network // POS Terminal
  
 ![bitcoin](https://github.com/cryptonobo/The-Quickening-Box-V2/blob/master/QUICKENINGBOXV2.jpg)
