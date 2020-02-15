@@ -35,6 +35,7 @@ ESP32 Development Board ESP-32 ESP-32S WiFi Bluetooth Dual Cores CPU MCU Board I
 
 4x3 Matrix Array 12 Key Membrane Switch Keypad Keyboard 3*4 Control Panel Microprocessor Keyboard Controller*
 - https://www.aliexpress.com/item/1718997674.html?spm=a2g0s.9042311.0.0.302b4c4duWueIQ
+
 *the back of the pad is adhesive and allows an installation without glue.
 
 3pcs DIY Micro USB Welding Type Male Plug Female jack Connector with 2P / 4P Cable for OD3mm Wire Black 30cm
