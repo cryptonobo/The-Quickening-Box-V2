@@ -33,8 +33,9 @@ Micro USB 18650 TP4056 1 A Lithium Battery Charging Power Board Module TE420
 ESP32 Development Board ESP-32 ESP-32S WiFi Bluetooth Dual Cores CPU MCU Board IOT For LuaNode For NodeMcu
 - https://www.aliexpress.com/item/32847642995.html?spm=a2g0s.8937460.0.0.549d2e0e6RC0bo
 
-4x3 Matrix Array 12 Key Membrane Switch Keypad Keyboard 3*4 Control Panel Microprocessor Keyboard Controller
+4x3 Matrix Array 12 Key Membrane Switch Keypad Keyboard 3*4 Control Panel Microprocessor Keyboard Controller*
 - https://www.aliexpress.com/item/1718997674.html?spm=a2g0s.9042311.0.0.302b4c4duWueIQ
+*the back of the pad is adhesive and allows an installation without glue.
 
 3pcs DIY Micro USB Welding Type Male Plug Female jack Connector with 2P / 4P Cable for OD3mm Wire Black 30cm
 - https://www.aliexpress.com/item/4000259546746.html?spm=a2g0s.9042311.0.0.302b4c4duWueIQ
